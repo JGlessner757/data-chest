@@ -1,0 +1,121 @@
+ranking,name,School,State,City,position,height,weight,stars,rating,college
+1,D.J. Williams,De La Salle,CA,Concord,ILB,44349,235,5,0.9998,Miami
+2,Brock Berlin,Evangel Christian Academy,LA,Shreveport,PRO,44349,190,5,0.9998,Florida
+3,Charles Rogers,Saginaw,MI,Saginaw,WR,44351,195,5,0.9988,Michigan State
+4,Travis Johnson,Notre Dame,CA,Sherman Oaks,SDE,44351,265,5,0.9982,Florida State
+5,Marcus Houston,Thomas Jefferson,CO,Denver,RB,36678,208,5,0.998,Colorado
+6,Kwame Harris,Newark,DE,Newark,OT,44354,320,5,0.9978,Stanford
+7,B.J. Johnson,South Grand Prairie,TX,Grand Prairie,WR,44348,190,5,0.9976,Texas
+8,Bryant McFadden,McArthur,FL,Hollywood,CB,44348,182,5,0.9968,Florida State
+9,Sam Maldonado,Harrison,NY,Harrison,RB,44349,215,5,0.9964,Ohio State
+10,Mike Munoz,Archbishop Moeller,OH,Cincinnati,OT,44354,290,5,0.996,Tennessee
+11,Willis McGahee,Miami Central,FL,Miami,RB,44348,215,5,0.9948,Miami
+12,Antonio Hall,McKinley,OH,Canton,OT,44352,295,5,0.9946,Kentucky
+13,Darrell Lee,Kirkwood,MO,Saint Louis,WDE,44352,230,5,0.994,Florida
+14,O.J. Owens,North Stanly,NC,New London,S,44348,195,5,0.9932,Tennessee
+15,Jeff Smoker,Manheim Central,PA,Manheim,PRO,44350,190,5,0.9922,Michigan State
+16,Marco Cooper,Cass Technical,MI,Detroit,OLB,44349,235,5,0.9918,Ohio State
+17,Chance Mock,The Woodlands,TX,The Woodlands,PRO,44349,190,5,0.9918,Texas
+18,Roy Williams,Permian,TX,Odessa,WR,44351,202,5,0.9916,Texas
+19,Matt Grootegoed,Mater Dei,CA,Santa Ana,OLB,44327,205,5,0.9914,USC
+20,Yohance Buchanan,Douglass,GA,Atlanta,S,44348,210,5,0.9912,Florida State
+21,Mac Tyler,Jess Lanier,AL,Hueytown,DT,44353,320,5,0.9912,Alabama
+22,Jason Respert,Northside,GA,Warner Robins,OC,44350,300,5,0.9902,Tennessee
+23,Casey Clausen,Bishop Alemany,CA,Mission Hills,PRO,44351,215,5,0.9896,Tennessee
+24,Albert Means,Trezevant,TN,Memphis,SDE,44353,310,5,0.989,Alabama
+25,Albert Hollis,Christian Brothers,CA,Sacramento,RB,36678,190,5,0.989,Georgia
+26,Eric Moore,Pahokee,FL,Pahokee,OLB,44351,226,5,0.9884,Florida State
+27,Willie Dixon,Stockton Christian School,CA,Stockton,WR,44327,182,5,0.9884,Miami
+28,Cory Bailey,American,FL,Hialeah,S,44326,175,5,0.988,Florida
+29,Sean Young,Northwest Whitfield County,GA,Tunnel Hill,OG,44353,293,5,0.9878,Tennessee
+30,Johnnie Morant,Parsippany Hills,NJ,Morris Plains,WR,44352,225,5,0.9871,Syracuse
+31,Wes Sims,Weatherford,OK,Weatherford,OG,44352,310,5,0.9869,Oklahoma
+32,Tyson Thompson,Bell,TX,Irving,RB,44349,195,5,0.9869,TCU
+33,Jason Campbell,Taylorsville,MS,Taylorsville,PRO,44352,190,5,0.9853,Auburn
+34,Antwan Odom,Alma Bryant,AL,Irvington,SDE,44354,260,5,0.9851,Alabama
+35,Sloan Thomas,Klein,TX,Spring,WR,44349,188,5,0.9847,Texas
+36,Raymond Mann,Hampton,VA,Hampton,ILB,44348,233,5,0.9847,Virginia
+37,Alphonso Townsend,Lima Central Catholic,OH,Lima,DT,44353,280,5,0.9847,Ohio State
+38,Greg Jones,Battery Creek,SC,Beaufort,RB,44349,245,5,0.9837,Florida State
+39,Chris Septak,Millard West,NE,Omaha,TE,44350,245,5,0.9833,Nebraska
+40,Paul Mociler,St. John Bosco,CA,Bellflower,OG,44352,300,5,0.9833,UCLA
+41,Eric Knott,Henry Ford II,MI,Sterling Heights,TE,44351,235,4,0.9831,Michigan State
+42,Harold James,Osceola,AR,Osceola,S,44348,220,4,0.9827,Alabama
+43,Chris Rix,Santa Margarita Catholic,CA,Rancho Santa Margarita,PRO,44351,200,4,0.9827,Florida State
+44,Teyo Johnson,Mira Mesa,CA,San Diego,ATH,44354,256,4,0.9827,Stanford
+45,Chris McKelvy,North Penn,PA,Lansdale,OT,44352,300,4,0.9821,Penn State
+46,Joe McGuire,Servite,CA,Anaheim,OT,44352,225,4,0.9819,USC
+47,Anthony Bryant,Sunshine Sch,AL,Newbern,SDE,44351,310,4,0.9815,Alabama
+48,Brock Edwards,Fort Worth Christian,TX,North Richland Hills,TE,44352,250,4,0.9815,Texas
+49,Carlos Perez,Hoboken,NJ,Hoboken,WR,44348,195,4,0.9811,Florida
+50,Adam Doiron,Duncan,OK,Duncan,SDE,44351,260,4,0.9807,Texas
+51,Tre Orr,Columbia,FL,Lake City,S,44349,190,4,0.9805,Florida
+52,Hobie Holiday,Houston County,GA,Warner Robins,OLB,44352,228,4,0.9791,Georgia Tech
+53,Shannon Snell,Hillsborough,FL,Tampa,OG,44353,305,4,0.9791,Florida
+54,Larry Stevens,Wilson,WA,Tacoma,OLB,44351,215,4,0.9791,Michigan
+55,Sam Ruhe,Walsh Jesuit,OH,Stow,SDE,44352,245,4,0.9787,Penn State
+56,Amon Gordon,Mira Mesa,CA,San Diego,OLB,44350,270,4,0.9781,Stanford
+57,Steve Lee,Evangel Christian Academy,LA,Shreveport,DT,44351,308,4,0.9777,Texas
+58,Reggie Vickers,Glades Central,FL,Belle Glade,WR,36678,175,4,0.9775,Florida
+59,Lawrence Richardson,Ball,TX,Galveston,CB,44326,170,4,0.9773,Arkansas
+60,Greg Pauly,South,WI,Waukesha,DT,44353,275,4,0.9771,Notre Dame
+61,Tim Johnson,Delbarton School,NJ,Morristown,ILB,44351,230,4,0.9769,Penn State
+62,Terrell Suggs,Hamilton,AZ,Chandler,ATH,44351,240,4,0.9765,Arizona State
+63,Chris Boggas,Irving,TX,Irving,OT,44352,310,4,0.9763,Kansas State
+64,Chad Mascoe,Osceola,MS,Summit,ILB,44350,225,4,0.9761,Florida State
+65,Carlos Joseph,Edison,FL,Miami,OT,44353,303,4,0.9759,Miami
+66,Adrian Mayes,Forest Brook,TX,Houston,S,44349,200,4,0.9759,LSU
+67,Tab Perry,Milpitas,CA,Milpitas,WR,44350,218,4,0.9759,UCLA
+68,Alex Holmes,Harvard Westlake,CA,Studio City,TE,44349,295,4,0.9751,USC
+69,Dan Dicks,Bellevue,WA,Bellevue,OG,44352,280,4,0.9747,Washington
+70,Carl Walker,Andrew Jackson,FL,Jacksonville,S,44350,190,4,0.9747,Miami
+71,Jason Richenberger,Liberty,MO,Liberty,ILB,44348,200,4,0.9747,Nebraska
+72,Jermelle Lewis,Bloomfield,CT,Bloomfield,RB,44348,215,4,0.9745,Iowa
+73,Vontez Duff,Copperas Cove,TX,Copperas Cove,RB,44348,175,4,0.9743,Notre Dame
+74,Adam Black,Cy Falls,TX,Houston,CB,36678,175,4,0.9741,Texas A&M
+75,Craig Ochs,Fairview,CO,Boulder,PRO,44349,205,4,0.9739,Colorado
+76,Carlyle Holiday,Roosevelt,TX,San Antonio,WR,44350,185,4,0.9739,Notre Dame
+77,Michael Boulware,Spring Valley,SC,Columbia,OLB,44350,200,4,0.9737,Florida State
+78,Justin Hinds,Piscataway Twp,NJ,Piscataway,SDE,44351,265,4,0.9733,Boston College
+79,Tyrell Dortch,Hoboken,NJ,Hoboken,RB,36678,195,4,0.9725,Michigan State
+80,Karlton Neal,Morgan Park,IL,Chicago,WDE,44352,235,4,0.9723,Tennessee
+81,Sean Poole,Central Commencement Academy,MI,Flint,OT,44354,285,4,0.9719,Michigan State
+82,Rashad Baker,Woodrow Wilson,NJ,Camden,S,36678,185,4,0.9717,Tennessee
+83,Will Smith,Thomas R Proctor,NY,Utica,WDE,44351,230,4,0.9715,Ohio State
+84,Keith Kelly,Colleton County,SC,Walterboro,RB,36678,205,4,0.9715,Clemson
+85,Tony Johnson,State College Area,PA,State College,RB,44348,205,4,0.9709,Penn State
+86,Zac Wasserman,Westlake,CA,Thousand Oaks,PRO,44351,203,4,0.9707,Penn State
+87,Darius Jones,Memorial,WI,Beloit,ILB,44351,250,4,0.9703,Wisconsin
+88,Brooks Daniels,Hamilton County,FL,Jasper,OLB,44350,200,4,0.9699,Alabama
+89,Erik Noll,Watkins Mill,MD,Gaithersburg,OT,44352,292,4,0.9683,Penn State
+90,Quinn Sypniewski,Johnston Senior,IA,Johnston,TE,44354,255,4,0.9683,Colorado
+91,Kelvin Kight,Lithonia,GA,Lithonia,WR,36678,185,4,0.9679,Florida
+92,Bo Mosley,Osceola,AR,Osceola,CB,44326,160,4,0.9679,Arkansas
+93,Andrew Walter,Grand Junction,CO,Grand Junction,PRO,44352,205,4,0.9671,Arizona State
+94,Brandon Sumner,Mainland,FL,Daytona Beach,PRO,44352,220,4,0.9667,Georgia Tech
+95,Vince Wilfork,Santaluces Community,FL,Lake Worth,DT,44348,310,4,0.9667,Miami
+96,Mike Goolsby,Joliet Catholic Academy,IL,Joliet,ILB,44351,225,4,0.9663,Notre Dame
+97,Derron Parquet,Archbishop Rummel,LA,Metairie,RB,36678,205,4,0.9659,LSU
+98,Diamond Ferri,Everett,MA,Everett,RB,44327,200,4,0.9659,Syracuse
+99,Alex Barron,Orangeburg-Wilkinson,SC,Orangeburg,OT,44355,297,4,0.9657,Florida State
+100,Sean McHugh,Chagrin Falls,OH,Chagrin Falls,TE,44353,245,4,0.9655,Penn State
+101,Bennie Mills,Archbishop Rummel,LA,Metairie,DT,44351,280,4,0.9655,Florida
+102,Ben Emanuel,Clear Brook,TX,Friendswood,S,44349,190,4,0.9651,UCLA
+103,Willie Green,Osceola,FL,Kissimmee,RB,44325,205,4,0.9647,Florida
+104,Chris Kelley,Seneca Valley,MD,Germantown,PRO,44349,205,4,0.9647,Maryland
+105,Robert Peace,Ruston,LA,Ruston,ILB,44350,215,4,0.9643,Tennessee
+106,Chris Young,South Panola,MS,Batesville,WR,44349,184,4,0.9639,Vanderbilt
+107,Ronnie Brown,Cartersville,GA,Cartersville,RB,44348,200,4,0.9631,Auburn
+108,Richard Johnson,Milford Mill Academy,MD,Gwynn Oak,WR,36678,170,4,0.9629,Virginia Tech
+109,Stephen Williams,Bolingbrook,IL,Bolingbrook,SDE,44350,275,4,0.9627,Indiana
+110,John Rattay,Desert Vista,AZ,Phoenix,PRO,44351,215,4,0.9622,Tennessee
+111,Tatum Bell,DeSoto,TX,DeSoto,RB,44327,190,4,0.9618,Oklahoma State
+112,Maurice Mitchell,Dougherty Comprehensive,GA,Albany,OT,44354,290,4,0.9614,Alabama
+113,Jason Peters,Queen City,TX,Queen City,WDE,44352,270,4,0.9614,Arkansas
+114,Cameron Wake,DeMatha Catholic,MD,Hyattsville,WDE,44350,258,4,0.961,Penn State
+115,Doug Buckles,Madison Central,MS,Madison,OG,44352,275,4,0.961,Ole Miss
+116,Jason Witten,Elizabethton,TN,Elizabethton,WDE,44354,265,4,0.9606,Tennessee
+117,Lynn McGruder,Cheyenne,NV,North Las Vegas,DT,44350,285,4,0.9606,Tennessee
+118,Dustin Picciotti,Central Bucks West,PA,Doylestown,FB,44350,235,4,0.9602,Pittsburgh
+119,Marcus White,Theodore,AL,Theodore,SDE,44352,270,4,0.9602,Auburn
+120,Nautyn McKay-Loescher,Toronto,OH,Toronto,WDE,44351,240,4,0.9347,Alabama
